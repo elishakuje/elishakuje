@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elisha kuje
-- 👀 I’m interested in website dev. & data science
-- 🌱 I’m currently studying software engineering with @holberton school #ALX.
+- 👀 I’m interested in Web Dev., Backend and Data Science
+- 🌱 I’m currently studying Full Stack Software Engineering @Alx_africa/@Holberton school #ALX.
 - 💞️ I’m looking to collaborate on software engineering Projects with focus on backend.
 - 📫 How to reach me ...
 
