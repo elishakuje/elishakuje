@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elishakuje&theme=dracula&hide_border=true)
+[![Elishakuje's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elishakuje)](https://github.com/elishakuje/github-readme-activity-graph)
 
 <!---
 elishakuje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
